@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690142283452",
+    "project_id": "docgari-e477d",
+    "storage_bucket": "docgari-e477d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690142283452:android:1542127b698483181b32b9",
+        "android_client_info": {
+          "package_name": "com.roysam.docgari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690142283452-6sdi3bq4lruii90h7ck0ablmheppkrt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-Otgq5xeMQRmbvqw0f7yZrdr4VDpx0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690142283452-6sdi3bq4lruii90h7ck0ablmheppkrt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

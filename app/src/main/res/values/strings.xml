@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DocGari</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="menu_home">Customer</string>
+    <string name="menu_gallery">Dhobi</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string-array name="privillege">
+        <item>Register as:</item>
+        <item>Customer</item>
+        <item>Dhobi</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
